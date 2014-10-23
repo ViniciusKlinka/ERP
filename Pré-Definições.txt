@@ -1,0 +1,10 @@
+Sistema ERP
+
+Módulos:
+
+- Financeiro
+- Estoque
+- Compras
+- Vendas
+- Recebimento
+- Nota Fiscal
