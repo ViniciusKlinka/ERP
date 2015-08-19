@@ -1,10 +1,19 @@
 Sistema ERP
 
-M�dulos:
+Módulos:
 
+- Controle de Usuários
+- Cadastro de Pessoas + Cadastro de Empresas
+  - Cadastro de Funcionarios
+  - Cadastro de Cliente
 - Financeiro
+  - Recebimentos / Pagamentos
 - Estoque
-- Compras
+- Compras 
+  - Produtos
+  - Serviços
 - Vendas
-- Recebimento
+  - Produtos
+  - Serviços
+- Entregas / Visitas
 - Nota Fiscal
