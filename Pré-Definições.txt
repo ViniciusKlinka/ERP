@@ -1,4 +1,7 @@
-Sistema ERP
+Sistema ERP para pequenas e médias empresas
+
+- Sistema simples de gerenciamento para pequenas e médias empresas.
+- Desenvolvimento em C++ para uso em sistemas Windows e Linux (ambiente gráfico)
 
 Módulos:
 
